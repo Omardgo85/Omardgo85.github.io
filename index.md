@@ -35,10 +35,10 @@
 ## Education
 *	Graduated from San Marcos High School with High School Diploma
 *	Attended Santa Barbara City College - No Graduate - 
-####		Studied
-*		  Computer Science
-*		  Managerial and financial accounting and quickbooks.
-*		  Marketing 
+#### Studied
+*	  Computer Science
+*	  Managerial and financial accounting and quickbooks.
+*	  Marketing 
 
 ---
 
