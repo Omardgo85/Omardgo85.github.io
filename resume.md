@@ -1,6 +1,6 @@
 ---
 
-#Omar Gonzalez Carmona
+# Omar Gonzalez Carmona
 
 ---
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-##Skills
+## Skills
 	###Computer Skills
 	  *HTML, CSS, JavaScript and Python
 	  *GitHub workplace
@@ -27,7 +27,7 @@
 
 ---
 
-##Education
+## Education
 	*Graduated from San Marcos High School with High School Diploma
 	*Attended Santa Barbara City College - No Graduate - 
 		####Studied
@@ -37,4 +37,4 @@
 
 ---
 
-##Work Experience
+## Work Experience
