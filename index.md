@@ -1,9 +1,13 @@
 ---
+---
+---
+---
 
 # Omar Gonzalez Carmona
 
 ---
----
+
+## Objective
 
    My objective for an entry-level position or intership is to kickstart my career in front-end
    web development and accounting. While i may not have extensive professionnal experience,
