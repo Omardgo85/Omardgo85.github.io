@@ -22,22 +22,23 @@
 ---
 
 ## Skills
-	###Computer Skills
-	  *HTML, CSS, JavaScript and Python
-	  *GitHub workplace
-	  *website deployment, 
-	  *Quickbooks for accounting online and desktop, A/R, A/P, Bookkeping, journal entries, accounts reconciliation.
-	  *Google and Facebook Analystics. adSence, PayPal website integration.
+
+### Computer Skills
+	* HTML, CSS, JavaScript and Python
+	* GitHub workplace
+	* Website Deployment, 
+	* Quickbooks for accounting online and desktop, A/R, A/P, Bookkeping, journal entries, accounts reconciliation.
+	* Google and Facebook Analystics. adSence, PayPal website integration.
 
 ---
 
 ## Education
-	*Graduated from San Marcos High School with High School Diploma
-	*Attended Santa Barbara City College - No Graduate - 
-		####Studied
-		   *Computer Science
-		   *Managerial and financial accounting and quickbooks.
-		   *Marketing 
+	* Graduated from San Marcos High School with High School Diploma
+	* Attended Santa Barbara City College - No Graduate - 
+	#### Studied
+	   * Computer Science
+	   * Managerial and financial accounting and quickbooks.
+	   * Marketing 
 
 ---
 
