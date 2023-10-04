@@ -16,7 +16,7 @@
 
    I'm excited about any opportunity to work in entry-level roles or internships that provide
    me with valuable learning experiences in both front-end web development or accounting. As
-   deaf individual, I bring a unique perspective, adaptability, and strong work ethic to the
+   deaf individual, I bring a unique perspective, adaptability, and strong work ethics to the
    table, making me a motivated and determined candidate ready to contribute to your workplace success.
 
 ---
