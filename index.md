@@ -9,7 +9,7 @@
 
 ## Objective
 
-   My objective for an entry-level position or internship - - - is to kickstart my career in front-end
+   My objective for an entry-level position or internship is to kickstart my career in front-end
    web development and accounting. While I may not have extensive professional experience,
    I am passionate about cultivating my skills and knowledge in these areas.
 
